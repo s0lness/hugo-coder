@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "johndoe"
+title = "Sylve's Place on the Internet"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,15 +12,14 @@ enableEmoji = true
 noClasses = false
 
 [params]
-author = "John Doe"
+author = "Sylve Chevet"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website"
+description = "My lil corner of the Internet"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["Co-Founder [@briqNFT](https://twitter.com/briqNFT)", " Vibes Operator [@Dojo](https://twitter.com/dojostarknet)", "Governance [@StarknetFndn](https://twitter.com/starknet)"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
-since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languagues such as Arabic
@@ -122,93 +121,40 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-[[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/johndoe/"
-
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
+weight = 1
+url = "https://twitter.com/sylvechv/"
+
+[[params.social]]
+name = "Mirror"
+icon = "fa fa-2x fa-paragraph"
+weight = 2
+url = "https://mirror.xyz/sylve.eth"
+
+[[params.social]]
+name = "Arena"
+icon = "fa fa-2x fa-bookmark"
 weight = 3
-url = "https://twitter.com/johndoe/"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
-
-[[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+url = "https://are.na/sylve-chevet"
 
 [languages.en]
 languageName = ":uk:"
 
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 1
+url = "https://mirror.xyz/sylve.eth"
+
+[[languages.en.menu.main]]
+name = "Publications"
+weight = 2
+url = "publications/"
+
 [[languages.en.menu.main]]
 name = "About"
-weight = 1
-url = "about/"
-
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.en.menu.main]]
-name = "Projects"
 weight = 3
-url = "projects/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
-
-[languages.pt-br]
-languageName = ":brazil:"
-title = "João Ninguém"
-
-[languages.pt-br.params]
-author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
-
-[[languages.pt-br.menu.main]]
-name = "Sobre"
-weight = 1
 url = "about/"
-
-[[languages.pt-br.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.pt-br.menu.main]]
-name = "Projetos"
-weight = 3
-url = "projects/"
-
-[[languages.pt-br.menu.main]]
-name = "Contato"
-weight = 5
-url = "contact/"
