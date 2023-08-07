@@ -6,11 +6,13 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Sylve"
 +++
 
-I'm Sylve Chevet, Co-Founder of [briqNFT](https://twitter.com/briqNFT), [Dojo](https://twitter.com/dojostarknet) and governance facilitator at the [Starknet Foundation](https://twitter.com/starknetfndn).
+I'm Sylve Chevet, Co-Founder of [briqNFT](https://twitter.com/briqNFT), [Dojo](https://twitter.com/dojostarknet) and governance facilitator at the [Starknet Foundation](https://twitter.com/starknetfndn). I came up with *[Keep Starknet Strange](https://youtu.be/Q0LpMwvIMmc?t=756)*.
 
-My interests lie in blockchain, provability & zk, onchain games, autonomous worlds, NFTs, [account abstraction & wallets](https://www.are.na/sylve-chevet/account-abstraction-cool-stuff), (continental) philosophy, urbanism, video game, the contemporary experience of living, [knowledge tools](https://www.are.na/sylve-chevet/knowledge-tools-9pcpsrobomc), the [slow cancellation of the future](https://www.youtube.com/watch?v=gSvUqhZcbVg&t), [lost futures](https://www.are.na/sylve-chevet/postmodern-lost-futures), [remix culture & IP law](https://www.are.na/sylve-chevet/remix-culture-amp-copyright-law), philosophical inquiries about the concept of space and Super Smash Bros Melee.
+I graduated from HEC Paris in 2018 after a *classe préparatoire*, and have worked as a product manager at [Ledger](https://ledger.com/) from 2018 to 2021. I've been working on briq since 2021.
 
-I love collecting pieces of information on [are.na](https://are.na/sylve-chevet).
+My interests lie in blockchain, provability & zk, onchain games, autonomous worlds, NFTs, [account abstraction & wallets](https://www.are.na/sylve-chevet/account-abstraction-cool-stuff), (continental) philosophy, urbanism, video games, the contemporary experience of living, [knowledge tools](https://www.are.na/sylve-chevet/knowledge-tools-9pcpsrobomc), the [slow cancellation of the future](https://www.youtube.com/watch?v=gSvUqhZcbVg&t), [lost futures](https://www.are.na/sylve-chevet/postmodern-lost-futures), [remix culture & IP law](https://www.are.na/sylve-chevet/remix-culture-amp-copyright-law), philosophical inquiries about the concept of space and Super Smash Bros Melee.
+
+I love collecting pieces of information on [are.na](https://are.na/sylve-chevet) and I agressively shitpost on every single social network I join. 
 
 # Content I'd recommend
 ## Books
